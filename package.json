@@ -1,6 +1,7 @@
 {
   "name": "23tut",
   "version": "0.1.0",
+  "homepage": "https://dskkoji.github.io/react_deploy_gh",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
@@ -31,5 +32,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
